@@ -1,0 +1,5 @@
+1,Alex Mihai,strada Vaida Voievod
+2,Mircea Dan,strada Mihail Kogalniceanu
+3,Ilie Pavel,strada Mihai Eminescu
+4,Andrei Gigi,strada Vaida Voievod
+5,Mihai Alexandru,strada Vlad Tepes
